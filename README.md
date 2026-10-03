@@ -8,6 +8,21 @@ Keys Cafe is a Samsung-only Good Lock module that customises the *Samsung*
 Keyboard. KeyStudio is both halves in one app: the keyboard, and the studio that
 designs it.
 
+<p align="center">
+  <img src="docs/images/keyboard-strawberry-milk.png" width="32%" alt="Strawberry Milk: a soft pink keyboard with white keys">
+  <img src="docs/images/keyboard-aurora.png" width="32%" alt="Aurora: a dark teal gradient keyboard with glassy keys">
+  <img src="docs/images/keyboard-neon-grid.png" width="32%" alt="Neon Grid: a black keyboard with cyan outlined, cut-corner keys">
+</p>
+<p align="center"><em>Three of the presets — Strawberry Milk, Aurora, Neon Grid — with suggestions while typing.</em></p>
+
+<p align="center">
+  <img src="docs/images/studio-home.png" width="24%" alt="Studio home: a grid of keyboard designs">
+  <img src="docs/images/studio-colour-picker.png" width="24%" alt="Colour picker editing a gradient stop over the live keyboard">
+  <img src="docs/images/studio-effects.png" width="24%" alt="Effects tab: key motion, key colour and particle effects">
+  <img src="docs/images/studio-layout-editor.png" width="24%" alt="Layout editor with the e key selected for editing">
+</p>
+<p align="center"><em>The Studio: your designs, a colour picker, press effects, and the layout editor — each over the real keyboard, live.</em></p>
+
 **Resuming work?** Read [`docs/STATE.md`](docs/STATE.md) first — it holds the
 aim, what is done, the environment gotchas, the decisions already settled, and
 exactly what to pick up next. For anything visual, [`docs/DESIGN.md`](docs/DESIGN.md) is the
