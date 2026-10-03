@@ -1,0 +1,18 @@
+# Android / Gradle
+.gradle/
+build/
+local.properties
+*.apk
+*.aab
+*.iml
+.cxx/
+
+# IDE
+.idea/
+*.hprof
+captures/
+
+# Dev harness scratch
+.kb-prev-ime
+.kb-device
+screenshot.png
